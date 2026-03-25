@@ -45,12 +45,12 @@ I am a fast learner and highly motivated developer. I am passionate about creati
 
 ### **SADOP: Autonomous Database Performance Diagnostic and Optimization System**
 * **Role**: Lead Developer
-* **Technologies**: Python, Flask, SQL, Machine Learning [cite: 6, 22, 25, 26]
+* **Technologies**: Python, Flask, SQL, Machine Learning .
 * **Description**: An intelligent chatbot system designed to autonomously diagnose database performance bottlenecks and provide optimization recommendations.
 * **Key Features**: 
-    * Real-time diagnostic analysis of database health[cite: 6].
-    * AI-driven optimization suggestions to improve query efficiency[cite: 7, 26].
-    * Interactive chatbot interface for seamless DBA communication[cite: 24].
+    * Real-time diagnostic analysis of database health.
+    * AI-driven optimization suggestions to improve query efficiency.
+    * Interactive chatbot interface for seamless DBA communication.
 * **Link**: [🔗 View SADOP on GitHub]([https://github.com/hanana217/APBD.git])
 
 
