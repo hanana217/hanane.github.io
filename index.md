@@ -51,7 +51,7 @@ I am a fast learner and highly motivated developer. I am passionate about creati
     * Real-time diagnostic analysis of database health.
     * AI-driven optimization suggestions to improve query efficiency.
     * Interactive chatbot interface for seamless DBA communication.
-* **Link**: [🔗 View SADOP on GitHub]([https://github.com/hanana217/APBD.git])
+* **Link**: [🔗 View SADOP on GitHub](https://github.com/hanana217/APBD.git)
 
 
 ---
