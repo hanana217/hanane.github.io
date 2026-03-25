@@ -41,6 +41,20 @@ I am a fast learner and highly motivated developer. I am passionate about creati
 
 ---
 
+## 🚀 Key Projects
+
+### **SADOP: Autonomous Database Performance Diagnostic and Optimization System**
+* **Role**: Lead Developer
+* [cite_start]**Technologies**: Python, Flask, SQL, Machine Learning [cite: 6, 22, 25, 26]
+* **Description**: An intelligent chatbot system designed to autonomously diagnose database performance bottlenecks and provide optimization recommendations.
+* **Key Features**: 
+    * [cite_start]Real-time diagnostic analysis of database health[cite: 6].
+    * [cite_start]AI-driven optimization suggestions to improve query efficiency[cite: 7, 26].
+    * [cite_start]Interactive chatbot interface for seamless DBA communication[cite: 24].
+* **Link**: [🔗 View SADOP on GitHub](https://github.com/your-username/SADOP)
+
+
+---
 ## 🎓 Education
 
 * **Master 2 in Informatique Technology**
