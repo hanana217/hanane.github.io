@@ -79,5 +79,4 @@ I am a fast learner and highly motivated developer. I am passionate about creati
 I am actively looking for an internship and would love to connect.
 
 * **Email**: [hananemarouaelkorichi@gmail.com](mailto:hananemarouaelkorichi@gmail.com)
-* **Phone**: 0562017594
 * **Location**: Boumerdes, Algeria
